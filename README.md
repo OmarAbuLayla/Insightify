@@ -17,13 +17,6 @@ Insightify is a streamlined, local AI tool that transforms raw CSV data into str
 
 ---
 
-## Screenshots
-
-| Upload & Prompt Interface | Example Insight Output |
-|---------------------------|------------------------|
-| ![UI](./screenshots/ui.png) | ![Output](./screenshots/output.png) |
-
----
 
 ## How It Works
 
