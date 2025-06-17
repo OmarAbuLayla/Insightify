@@ -28,7 +28,7 @@ Insightify is a streamlined, local AI tool that transforms raw CSV data into str
    - Correlations (Pearson's r)
    - Value distributions for categorical data
    - Detection of duplicates and missing values
-4. These insights are passed to a local LLM (Zephyr-7B-beta) through a prompt template.
+4. These insights are passed to a local LLM through a prompt template.
 5. The model generates a structured narrative with:
    - Paragraph 1: Overview of the dataset
    - Paragraph 2: Key patterns and risks
